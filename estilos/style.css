@@ -122,6 +122,11 @@ main > article > p {
     width: 100%;
 }
 
+
+main > picture {
+    width: 100%;
+}
+
 main > article > img.pequeno {
     width: 50%;
     display: block;
